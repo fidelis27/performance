@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "Sérgio Lopes",
   "scripts": {
-    "start": "gulp"
+    "gulp": "gulp"
   },
     "devDependencies": {   
     "gulp": "^3.9.1",
