@@ -58,13 +58,13 @@
 }
 
 	.icone-cresca:before {
-		background-image: url("../../assets/img/icon-diferencial-1.png");
+		background-image: url("assets/img/icon-diferencial-1.png");
 	}
 	.icone-carreira:before {
-		background-image: url("../../assets/img/icon-diferencial-2.png");
+		background-image: url("assets/img/icon-diferencial-2.png");
 	}
 	.icone-impacto:before {
-		background-image: url("../../assets/img/icon-diferencial-3.png");
+		background-image: url("assets/img/icon-diferencial-3.png");
 	}
 
 /* fim dos icones */

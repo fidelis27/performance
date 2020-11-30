@@ -1,0 +1,1 @@
+setTimeout(function(){var e='<iframe  title="video" class="elasticMedia" src="https://player.vimeo.com/video/434809925" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>';document.querySelectir(".elasticMedia-container").innerHTML=e},500);
